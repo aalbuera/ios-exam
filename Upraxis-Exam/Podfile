@@ -7,7 +7,7 @@ target 'Upraxis-Exam' do
 
   # Pods for Upraxis-Exam
   pod 'Alamofire'
-  pod 'AlamofireObjectMapper'
+  pod 'SwiftyJSON'
 
   target 'Upraxis-ExamTests' do
     inherit! :search_paths
